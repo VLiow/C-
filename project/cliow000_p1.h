@@ -1,10 +1,4 @@
-///////////////////////////////////////////////////////////////
-// I UNDERSTAND THAT COPYING PROGRAMS FROM OTHERS WILL BE DEALT
-// WITH DISCIPLINARY RULES OF CCNY.
-// NAME: CHER VINCENT LIOW
-// USER_NAME: cliow000
-// PROJECT NUMBER: 1
-///////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <fstream>
 using namespace std;
