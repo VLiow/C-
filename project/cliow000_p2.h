@@ -1,10 +1,4 @@
-///////////////////////////////////////////////////////////////
-// I UNDERSTAND THAT COPYING PROGRAMS FROM OTHERS WILL BE DEALT
-// WITH DISCIPLINARY RULES OF CCNY.
-// NAME: Cher Vincent Liow
-// LOGIN: cliow000
-// PROJECT NUMBER: 2
-///////////////////////////////////////////////////////////////
+
 #include <iostream>
 #include <fstream>
 
